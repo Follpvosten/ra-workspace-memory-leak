@@ -1,0 +1,2 @@
+[workspace]
+members = ["i-haz-deps", "local-deps", "service"]
